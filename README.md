@@ -1,5 +1,7 @@
 ML Engineer | IIT Madras BS Data Science
+
 Building LLM-powered tools and interpretability research
+
 Open to remote ML/AI roles
 
 Currently working on:
