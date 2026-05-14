@@ -1,14 +1,18 @@
-ML Engineer | IIT Madras BS Data Science
+## Abhishek Dhama
+ML Engineer | IIT Madras BS Data Science (2023–2027)
 
-Building LLM-powered tools and interpretability research
+Building LLM-powered APIs and AI tooling. Interested in AI Safety and interpretability research.
 
-Open to remote ML/AI roles
+### Projects
+- **LLM Automation Agent** — FastAPI service that executes natural language tasks using OpenAI
+- **RAG Q&A API** — Retrieval-augmented generation over custom document corpora
+- **Hospital Management System** — Full-stack Flask app with role-based access control
 
-Currently working on:
-- LLM Automation Agent (FastAPI + OpenAI)
-- Graph Neural Network Interpretability (with NISER)
+### Skills
+Python · FastAPI · Flask · Scikit-learn · LightGBM · XGBoost · RAG · NLP · Docker
 
-Skills: Python, FastAPI, Flask, Scikit-learn, LightGBM, XGBoost other ML models
+### Open to
+Remote ML/AI engineering internships | Research collaborations
 
 <!---
 Abhishekdhama/Abhishekdhama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
