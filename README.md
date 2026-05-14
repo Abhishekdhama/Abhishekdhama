@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Abhishekdhama
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data community 
+ML Engineer | IIT Madras BS Data Science
+Building LLM-powered tools and interpretability research
+Open to remote ML/AI roles
+
+Currently working on:
+- LLM Automation Agent (FastAPI + OpenAI)
+- Graph Neural Network Interpretability (with NISER)
+
+Skills: Python, FastAPI, Flask, Scikit-learn, LightGBM, XGBoost other ML models
 
 <!---
 Abhishekdhama/Abhishekdhama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
