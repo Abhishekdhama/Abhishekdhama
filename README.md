@@ -9,7 +9,7 @@ Building LLM-powered APIs and AI tooling. Interested in AI Safety and interpreta
 - **Hospital Management System** — Full-stack Flask app with role-based access control
 
 ### Skills
-Python · FastAPI · Flask · Scikit-learn · LightGBM · XGBoost · RAG · NLP · Docker
+Python · FastAPI · Flask · Scikit-learn · LightGBM · XGBoost · RAG  · Docker
 
 ### Open to
 Remote ML/AI engineering internships | Research collaborations
